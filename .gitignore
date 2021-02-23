@@ -1,0 +1,10 @@
+2009
+2015
+*.h5
+*.csv
+venv
+.DS_Store
+.idea
+.vscode
+__pycache__
+.ipynb_checkpoints
