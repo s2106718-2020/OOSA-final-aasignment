@@ -1,4 +1,4 @@
-All equations below cannot be rendered correctly in `github`, click to get the `pdf` version of this (README)[https://github.com/s2106718-2020/OOSA-final-aasignment/blob/master/README.pdf]
+All equations below cannot be rendered correctly in `github`, click to get the `pdf` version of this [README](https://github.com/s2106718-2020/OOSA-final-aasignment/blob/master/README.pdf)
 
 # Question 1
 
